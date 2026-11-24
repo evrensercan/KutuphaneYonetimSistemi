@@ -38,16 +38,16 @@ Proje, katmanlı mimariye uygun olarak **CRUD (Create, Read, Update, Delete)** i
 
 1.  Projeyi bilgisayarınıza klonlayın:
     ```bash
-    git clone [https://github.com/evrensercan/KutuphaneYonetimSistemi.git](https://github.com/evrensercan/KutuphaneYonetimSistemi.git)
+    git clone https://github.com/evrensercan/KutuphaneYonetimSistemi.git
     ```
 2.  SQL Server'da `KutuphaneYonetimSistemi_DB` adında bir veritabanı oluşturun.
 3.  `Script.sql` dosyasını çalıştırarak tabloları oluşturun.
-4.  `Program.cs` içerisindeki `Connection String` bilgisini kendi sunucunuza göre güncelleyin.
+4.  Form dosyalarındaki (`*Form.cs`) bağlantı cümlesinde yer alan sunucu adını (`Server=...`) kendi SQL Server adınızla değiştirin.
 5.  Projeyi çalıştırın.
 
 ---
-👨‍💻 **Geliştirici:** [Evren SERCAN]
-🔗 **LinkedIn:** [https://www.linkedin.com/in/evren-sercan/]
+👨‍💻 **Geliştirici:** Evren SERCAN
+🔗 **LinkedIn:** [linkedin.com/in/evren-sercan](https://www.linkedin.com/in/evren-sercan/)
 
 ---
 ## 📷 Diğer Ekran Görüntüleri
